@@ -24,3 +24,5 @@ This project is a implementation of the classic Arkanoid game. It uses the biuoo
    You can run the game with different levels by passing arguments:
    ```bash
    java Ass6Game 1 2 3
+
+This will run levels 1, 2, and 3. If no arguments are provided, all default levels will be played.
