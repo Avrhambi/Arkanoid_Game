@@ -1,4 +1,5 @@
-#Arkanoid Game in Java
+#
+Arkanoid Game in Java
 This project is a Java implementation of the classic Arkanoid game. It uses the biuoop library for graphical user interface (GUI) handling and animations. The game consists of several levels that the player can progress through by breaking bricks with a ball controlled by a paddle.
 
 Features
