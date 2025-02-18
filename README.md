@@ -9,7 +9,7 @@ Keyboard Input: The game detects and reacts to keyboard input, allowing players 
 
 ## Installation
 1. Clone the repository to your local machine:
- ```bash
+ ``bash
     git clone <repository_url>
 
 2. Include the biuoop library in your project (either download or add it as a dependency).
