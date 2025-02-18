@@ -1,5 +1,5 @@
 # Arkonaid Game
-This project is a Java implementation of the classic Arkanoid game. It uses the biuoop library for graphical user interface (GUI) handling and animations. The game consists of several levels that the player can progress through by breaking bricks with a ball controlled by a paddle.
+This project is a implementation of the classic Arkanoid game. It uses the biuoop library for graphical user interface (GUI) handling and animations. The game consists of several levels that the player can progress through by breaking bricks with a ball controlled by a paddle.
 
 ## Features
 Multiple Levels: The game includes several predefined levels that can be selected by command-line arguments or defaults.
