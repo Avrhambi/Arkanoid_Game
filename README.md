@@ -17,12 +17,10 @@ This project is a implementation of the classic Arkanoid game. It uses the biuoo
 3. Compile and run the Java classes.
 
 ##  How to Play
-## Game Controls: 
-Use the arrow keys to control the paddle.
+- Game Controls: Use the arrow keys to control the paddle.
 
-## Game Flow: 
- - The game starts with a specific level and continues to the next after the player clears the current level. 
- - If no levels are specified, the game defaults to a set of predefined levels.
- - You can run the game with different levels by passing arguments:
+- Game Flow: The game starts with a specific level and continues to the next after the player clears the current level. 
+  If no levels are specified, the game defaults to a set of predefined levels.
+   You can run the game with different levels by passing arguments:
    ```bash
    java Ass6Game 1 2 3
