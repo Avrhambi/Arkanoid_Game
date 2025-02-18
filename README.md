@@ -9,8 +9,6 @@ This project is a implementation of the classic Arkanoid game. It uses the biuoo
 
 ## Installation
 1. Clone the repository to your local machine:
-   ```bash
-   git clone <repository_url>
 
 2. Include the biuoop library in your project (either download or add it as a dependency).
 
