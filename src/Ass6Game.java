@@ -16,7 +16,7 @@ import java.util.List;
  * @version 19.0.2
  * @since 2023 -05-07
  *
- */z
+ */
 public class Ass6Game {
 
     public static final int SCREEN_WIDTH = 800;
