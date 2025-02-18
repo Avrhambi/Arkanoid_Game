@@ -6,3 +6,14 @@ Multiple Levels: The game includes several predefined levels that can be selecte
 Smooth Animations: The game is rendered with smooth animations running at 60 frames per second.
 Sprites and Game Flow: Various game objects (such as bricks, balls, and paddles) are represented as sprites, and the game flow is managed by a dedicated GameFlow class.
 Keyboard Input: The game detects and reacts to keyboard input, allowing players to control the paddle.
+
+## Installation
+1. Clone the repository to your local machine:
+```bash
+   git clone <repository_url>
+
+2. Include the biuoop library in your project (either download or add it as a dependency).
+
+3. Compile and run the Java classes.
+
+##  How to Play
