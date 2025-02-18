@@ -26,3 +26,27 @@ This project is a implementation of the classic Arkanoid game. It uses the biuoo
    java Ass6Game 1 2 3
 
 This will run levels 1, 2, and 3. If no arguments are provided, all default levels will be played.
+
+## level 1
+![image](https://github.com/user-attachments/assets/1d247f0b-28ef-4988-adf3-16a5226f2af6)
+
+## level 2
+![image](https://github.com/user-attachments/assets/a3e8c57c-21ba-4cd0-b8c9-b8e4c2813537)
+
+## level 3 
+![image](https://github.com/user-attachments/assets/53d8d495-94ed-44d3-af43-9c23f757e59e)
+
+
+
+
+
+## Project Structure
+- Ass6Game.java: The main class responsible for initializing the game and running levels.
+- AnimationRunner.java: Handles running animations in the game at 60 frames per second.
+- BuildingAnimation.java: A sample animation representing a building sprite in the game.
+- GameFlow.java: Manages the game flow, including level transitions and the game loop.
+- Level Classes: Define different game levels with unique layouts (e.g., DirectHit1Level, WideEasy2Level).
+
+## Requirements
+- Java 8 or later.
+- biuoop library for GUI and animation.
