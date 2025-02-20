@@ -12,7 +12,7 @@ This project is a implementation of the classic Arkanoid game. It uses the biuoo
 
 ## Installation
 ## Quick access (recommended)
-1. Click here for download: [ArkonaidGame.jar](https://github.com/Avrhambi/Arkanoid_Game/raw/refs/heads/main/ArkonaidGame.jar) 
+1. Click here for download: [Arkanoid.jar](https://github.com/Avrhambi/Arkanoid_Game/raw/refs/heads/main/Arkanoid.jar) 
 2. Ensure that Java SE 10 or higher is installed on your machine.
 3. The game will launch automatically and you can start playing immediately.
 
