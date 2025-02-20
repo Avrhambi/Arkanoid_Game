@@ -11,7 +11,7 @@ This project is a implementation of the classic Arkanoid game. It uses the biuoo
 
 
 ## Installation
-## Easy access (recommended)
+## Quick access (recommended)
 1. Download the finalGame.jar file.
 2. Ensure that Java SE 10 or higher is installed on your machine.
 3. Double-click the finalGame.jar file.
