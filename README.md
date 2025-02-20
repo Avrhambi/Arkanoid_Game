@@ -7,7 +7,17 @@ This project is a implementation of the classic Arkanoid game. It uses the biuoo
 - Sprites and Game Flow: Various game objects (such as bricks, balls, and paddles) are represented as sprites, and the game flow is managed by a dedicated GameFlow class.
 - Keyboard Input: The game detects and reacts to keyboard input, allowing players to control the paddle.
 
+
+
+
 ## Installation
+## Easy access (recommended)
+1. Download the finalGame.jar file.
+2. Ensure that Java SE 10 or higher is installed on your machine.
+3. Double-click the finalGame.jar file.
+4. The game will launch automatically and you can start playing immediately.
+
+## Full installation
 1. Clone the repository to your local machine:
 
 2. Include the biuoop library in your project (either download or add it as a dependency).
